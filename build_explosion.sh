@@ -40,7 +40,7 @@ fi
 DEVICE="$1"
 
 #Variable
-VERSION="R03"
+VERSION="R01"
 USUARIO="ortizpablo199"
 DIRECTORIO="/home/$USUARIO/android_kernel_wingtech_msm8916"
 KERNELT="/home/$USUARIO/android_kernel_wingtech_msm8916/arch/arm/boot/zImage"
